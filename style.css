@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+#cabeçalho {
+    height: 150px;
+    background-color: rgb(246, 252, 134);
+    width:95%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#menu {
+    height: 500px;
+    width:334px;
+    background-color: rgb(126, 244, 156);
+    float:left;
+    margin-left: 37px;
+    margin-top: 10px;
+}
+
+#conteudo {
+    height: 500px;
+    width: 765px;
+    background-color: rgb(149, 217, 249);
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+#lado {
+    height: 500px;
+    width: 334px;
+    background-color: rgb(229, 155, 254);
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+
+#rodape {
+    height: 100px;
+    /*width: 300;*/
+    background-color: pink;
+    clear: both;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
